@@ -1,5 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--Lv8FWglM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1k9xgjrtzgz8mtu3xkod.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 🤝, I'm leonardo acuña</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+🤝,+I'm+Leonardo+Acuña)
 <h3 align="center">"Transforming Ideas into Reality! Passionate Back-end Developer from Colombia: Forging the Future of Code"</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
@@ -30,5 +29,13 @@
 </div>
 <h2 align="center">☄️ Stats ☄️</h2>
 <br>
-<div align=center>
-<img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leowader&show_icons=true&locale=en&layout=compact&theme=react" alt="leowader" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leowader&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowader&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  </div>
+  <p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=leowader&theme=tokyonight_duo&hide_border=true"
+</p>
+      
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
