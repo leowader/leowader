@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kafka,spring boot,microservices**
 
-- 👯 I’m looking to collaborate on [Monitoreo-financiero](https://monitoreo-financiero.vercel.app)
+- 👯 I’m looking to collaborate on [Aprendizaje-supervisado](https://front-ia.vercel.app/)
 
 - 💬 Ask me about **react,node.js,javaScript,java,c#,mongoDB,postgres,ORACLE.**
 
