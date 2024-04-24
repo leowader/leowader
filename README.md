@@ -41,6 +41,8 @@
     
 
 </p>
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leowader&theme=github_dark&hide_border=true" />   </div>
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leowader&theme=github_dark&hide_border=true" />
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</div>
       
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![]()
