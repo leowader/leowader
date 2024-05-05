@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+🤝,+I'm+Leonardo+Acuña)
 <h3 align="center">"Transforming Ideas into Reality! Passionate Back-end Developer from Colombia: Forging the Future of Code"</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leowader&label=Profile%20views&color=0e75b6&style=flat" alt="leowader" /> </p>
 
 - 👁️ Portafolio [portafolio](https://leowader.vercel.app)
