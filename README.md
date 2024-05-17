@@ -33,6 +33,7 @@
 
 <div align="center">  
     <img  width="49%" height="195px" src="https://gh-readme-profile.vercel.app/api?username=leowader&theme=transparent&hide_border=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowader &show_icons=true&theme=transparent)
  
 
 <img width="41%" height="195px" class="bg-black" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leowader&theme=transparent" />
